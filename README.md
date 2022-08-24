@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I recently finished my Master degree at University of Waterloo and I am looking for a job. Check my [resume](./Resume.pdf)!
+
 <!--
 **leomikezee/leomikezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
